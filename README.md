@@ -5,7 +5,7 @@
 </p>
 
 <p><pre align="center">
-<strong>Covid-19 Prediction: A Machine Learning Approach / <a href="https://www.youtube.com/channel/UCX7oe66V8zyFpAJyMfPL9VA">​Code​</a> / <a href="https://www.youtube.com/channel/UCX7oe66V8zyFpAJyMfPL9VA">​Website​</a></pre></p></strong>
+<strong> COVID-Classifier: a simpler supervised machinelearning model / <a href="https://www.youtube.com/channel/UCX7oe66V8zyFpAJyMfPL9VA">​Code​</a> / <a href="https://www.youtube.com/channel/UCX7oe66V8zyFpAJyMfPL9VA">​Website​</a></pre></p></strong>
 
 ### Abstract
 
