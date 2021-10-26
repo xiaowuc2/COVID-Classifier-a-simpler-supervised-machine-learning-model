@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://cognopy.vercel.app">
-    <img src="https://github.com/xiaowuc2/Covid-19-Prediction-A-Machine-Learning-Approach/blob/main/Images/covid.png" alt="Logo" width="220" length="220" >
+    <img src="https://github.com/xiaowuc2/Covid-19-Prediction-A-Machine-Learning-Approach/blob/main/Images/rotating-globe-slow.gif" alt="Logo" width="200" length="200" >
   </a>
 </p>
 
